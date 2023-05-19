@@ -1,0 +1,48 @@
+﻿@{
+    Layout = "~/Views/Shared/_NewLayout.cshtml";
+    ViewData["Title"] = "Menu";
+    var image = "/images/banners/banner" + ViewData["bannernr"] + ".jpg";
+}
+<style>
+    .centered {
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+    section{
+        min-height: calc(100vh - 70px);
+
+    }
+    footer{
+        height: 50px;
+    }
+</style>
+<section>
+    <img src="@image" alt="Banner" width=100%/>
+
+    <table class="centered">
+        <tr>
+            <td>
+                <a asp-controller="Info" asp-action="ListRaces"><img src="~/images/banners/races.png" alt="races"/></a>
+
+            </td>
+            <td>
+                <a asp-controller="Info" asp-action="ListTeams"><img src="~/images/banners/teams.png" alt="teams"/></a>
+
+            </td>
+        </tr> 
+        <tr>
+            <td>
+                <a asp-controller="Info" asp-action="ListRiders"><img src="~/images/banners/riders.png" alt="riders"/></a>
+            </td>
+            <td>
+                <a asp-controller="Shop" asp-action="OrderTicket"><img src="~/images/banners/tickets.png" alt="tickets"/></a>
+            </td>
+        </tr>  
+    </table>
+</section>
+
+<footer>
+    <a asp-controller="Shop" asp-action="ListTickets">Admin Tickets</a>
+</footer>

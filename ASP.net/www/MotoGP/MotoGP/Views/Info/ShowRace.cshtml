@@ -1,0 +1,15 @@
+﻿@model MotoGP.Models.Race
+@{
+    ViewData["Title"] = "Race - " + Model.Name;
+    var track = "/images/races/" + Model.RaceID + ".jpg";
+}
+<h2>
+ @Model.Date.ToString("dd/MM/yy") - @Model.Country
+</h2>
+<img src="@track" alt="race map"/>
+<p>
+    @Model.Description
+</p>
+
+<!-- Back button to previous page. -->
+<a href="javascript:history.back()"><b>Back</b></a>

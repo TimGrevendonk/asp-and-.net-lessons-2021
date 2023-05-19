@@ -1,0 +1,32 @@
+
+@model MvcMovie.Models.Rating
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<form asp-action="Create">
+    <!-- <form action="/Ratings/Create" method="post"> -->
+    <!-- <input name="__RequestVerificationToken" type="hidden" value="CfDJ8K5uLJn..." /> -->
+    
+    <label asp-for="Code">
+        @Html.DisplayNameFor(model => model.Code)
+        </label>
+    <input asp-for="Code" />  
+    <br/>
+
+    <label asp-for="Name">
+        @Html.DisplayNameFor(model => model.Name)
+        </label>
+    <input asp-for="Name" /> 
+    <br/>
+
+    <input type="submit" value="Create" />
+</form>
+
+<br />
+
+<div>
+    <a asp-action="List">Back to List</a>
+</div>
+

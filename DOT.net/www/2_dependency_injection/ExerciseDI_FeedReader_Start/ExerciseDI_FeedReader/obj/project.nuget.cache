@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gGLO+htSZ58A2FF9/I5GmJZXF3RDm3dPNloXdKfhFu1gL+w8KOMr5W+WUR2BOU+nqQGvZ4qj6e8to+0/M4razw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\timgr\\OneDrive\\Desktop\\stuff\\school\\asp.net\\DOT.net\\www\\2_dependency_injection\\ExerciseDI_FeedReader_Start\\ExerciseDI_FeedReader\\ExerciseDI_FeedReader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\timgr\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\timgr\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\timgr\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

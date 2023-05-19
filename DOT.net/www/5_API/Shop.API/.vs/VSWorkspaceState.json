@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Shop.API",
+    "\\Shop.API\\Controllers",
+    "\\Shop.DAL",
+    "\\Shop.DAL\\Data",
+    "\\Shop.DAL\\Models",
+    "\\Shop.DAL\\Repository & UoW"
+  ],
+  "SelectedNode": "\\Shop.DAL\\Repository & UoW\\IRepository.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4XispHYofWPUxr2KTxpynHjFmTSyyNRqlcjuzQoTeTbTpM8Rh2k3pfwEGl7U2QYk8cmRpX/Mdw+jAuD9NcawCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\timgr\\OneDrive\\Desktop\\stuff\\school\\asp.net\\DOT.net\\www\\2_dependency_injection\\DI_Pattern Start Solution\\DI_Pattern_Better\\DI_Pattern_Better.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\timgr\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\timgr\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\timgr\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,48 @@
+﻿@model MotoGP.Models.ViewModels.ListRacesViewModel
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var track = "/images/races/" + @Model.raceID + ".jpg";
+} 
+
+<form asp-controller="Info" asp-action="SelectRace" method="get">
+    <!-- raceID corresponds to the property of the corresponding ViewModel (ListMoviesViewModel) -->
+    <select asp-for="raceID" asp-items="Model.Races">
+        <option value="0">-- Select a rating --</option>
+    </select>
+    <input type="submit" value="Filter" />
+</form>
+
+@if (Model.raceID != 0) 
+{
+    <table>
+        <tbody>
+            <tr>
+                <td>
+                        <!-- Track image -->
+                    <img src="@track" alt="track"/>
+                </td>
+                <td>
+                        <!-- Name and country -->
+                    @(Html.DisplayFor(model => model.Race.Name))
+                    <span> - </span>
+                    @(Html.DisplayFor(model => model.Race.Country))
+                    <br/>
+                        <!-- Track length -->
+                    <span>Length: </span>
+                    @(Html.DisplayFor(model => model.Race.Length))
+                    <span> m</span>
+                    <br/> 
+                        <!-- Race Date -->
+                    <span>Date: </span>
+                    @(Html.DisplayFor(model => model.Race.Date))
+                    <br/><br/>
+                        <!-- Description -->
+                    @(Html.DisplayFor(model => model.Race.Description))
+                    <br/> 
+                </td>
+           </tr>
+       </tbody>
+   </table>
+}
+   
+<a asp-controller="Info" asp-action="ListRaces">Back</a>

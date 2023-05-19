@@ -1,0 +1,12 @@
+C:\Users\timgr\OneDrive\Desktop\stuff\school\asp.net\DOT.net\www\Bank\Bank\obj\Debug\net5.0\Bank.csproj.AssemblyReference.cache
+C:\Users\timgr\OneDrive\Desktop\stuff\school\asp.net\DOT.net\www\Bank\Bank\obj\Debug\net5.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timgr\OneDrive\Desktop\stuff\school\asp.net\DOT.net\www\Bank\Bank\obj\Debug\net5.0\Bank.AssemblyInfoInputs.cache
+C:\Users\timgr\OneDrive\Desktop\stuff\school\asp.net\DOT.net\www\Bank\Bank\obj\Debug\net5.0\Bank.AssemblyInfo.cs
+C:\Users\timgr\OneDrive\Desktop\stuff\school\asp.net\DOT.net\www\Bank\Bank\obj\Debug\net5.0\Bank.csproj.CoreCompileInputs.cache
+C:\Users\timgr\OneDrive\Desktop\stuff\school\asp.net\DOT.net\www\Bank\Bank\bin\Debug\net5.0\Bank.deps.json
+C:\Users\timgr\OneDrive\Desktop\stuff\school\asp.net\DOT.net\www\Bank\Bank\bin\Debug\net5.0\Bank.dll
+C:\Users\timgr\OneDrive\Desktop\stuff\school\asp.net\DOT.net\www\Bank\Bank\bin\Debug\net5.0\ref\Bank.dll
+C:\Users\timgr\OneDrive\Desktop\stuff\school\asp.net\DOT.net\www\Bank\Bank\bin\Debug\net5.0\Bank.pdb
+C:\Users\timgr\OneDrive\Desktop\stuff\school\asp.net\DOT.net\www\Bank\Bank\obj\Debug\net5.0\Bank.dll
+C:\Users\timgr\OneDrive\Desktop\stuff\school\asp.net\DOT.net\www\Bank\Bank\obj\Debug\net5.0\ref\Bank.dll
+C:\Users\timgr\OneDrive\Desktop\stuff\school\asp.net\DOT.net\www\Bank\Bank\obj\Debug\net5.0\Bank.pdb

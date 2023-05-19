@@ -1,0 +1,45 @@
+﻿@model MotoGP.Models.ViewModels.ListTeamsRidersViewModel
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    .card{
+        background-color: lightgrey;
+        padding: 1rem;
+        margin: 1rem;
+    }
+</style>
+
+@foreach(var item in Model.Teams)
+{
+    var image = "/images/Teams/" + item.Logo;
+        <article class="card">
+            <a asp-controller="Info" asp-action="ListTeamsRiders" asp-route-id="@item.TeamID">
+                <img src="@image" alt="team">
+            </a>
+        </article>
+}
+
+@if(Model.teamID != 0){
+    @foreach (var item in Model.Riders)
+    {
+        // Get the value "number" from Model that has table content Riders in it.
+    var rider = "/images/riders/" + item.Number + ".jpg";
+        // Get the value "CountryID" from Model that has table content Riders in it.
+    var flag = "/images/flags/" + item.CountryID + ".png";
+            <article class="card">
+            <img src="@rider" alt="rider"/>
+                <h2>
+                    <img src="@flag" alt="flag"/>
+                    @item.Number
+                </h2>
+            <p>    
+                @item.FirstName @item.LastName
+            </p>     
+        </article>
+    }
+}
+
+    <!-- Back to previous page in webbrowser -->
+    <a asp-controller="Info" asp-action="ListTeams">Back</a>

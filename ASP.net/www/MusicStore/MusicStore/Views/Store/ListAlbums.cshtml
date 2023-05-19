@@ -1,0 +1,32 @@
+﻿@model IEnumerable<MusicStore.Models.Album>;
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewData["Title"] = "Albums";
+    var rows = 0;
+}
+<h1>Albums</h1>
+
+<h2>@Html.DisplayNameFor(model => model.Genre) Albums</h2>
+
+<table id="album-list">
+    <tr>
+@foreach (var item in Model) {
+        var albumArt = "/content/" + item.AlbumArtUrl;
+        
+        @if (rows % 6 == 0)
+        {
+           <tr></tr>
+        }
+        rows += 1;
+
+        <td>
+            <a asp-action="Details" asp-route-id="@item.AlbumID">
+            <img src="@albumArt" alt="album"/>
+            </a> 
+            <a asp-action="Details" asp-route-id="@item.AlbumID">@Html.DisplayFor(modelItem => item.Title)</a> 
+
+        </td>
+
+}
+</tr>
+</table>

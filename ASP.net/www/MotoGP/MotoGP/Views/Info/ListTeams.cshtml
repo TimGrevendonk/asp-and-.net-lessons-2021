@@ -1,0 +1,45 @@
+﻿@model MotoGP.Models.ViewModels.ListTeamsViewModel
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var rows = 0;
+}
+
+<style>
+    .card{
+        background-color: lightgrey;
+        padding: 1rem;
+        margin: 1rem;
+    }
+</style>
+<table>
+    <tbody>
+        <tr>
+@foreach(var item in Model.Teams)
+{  
+    <td>
+    @{var image = "/images/Teams/" + item.Logo;}
+        <article class="card">
+            <img src="@image" alt="team">
+            <h2>@item.Name</h2>
+            @foreach(var rider in item.Riders)
+            {
+                <p> @rider.FirstName @rider.LastName</p>
+            }
+        </article>
+    </td>
+    rows += 1;
+    @if(rows % 3 == 0)
+    {
+        // Programm won't allow closing of table row and opening new one.
+        <text>@rows</text>
+    }
+    
+}
+        </tr>
+    </tbody>
+</table>
+
+    <!-- Back to previous page in webbrowser -->
+<p><a href="javascript:history.back()">Back</a> | 
+    <a asp-controller="info" asp-action="ListTeamsRiders">Teams & Riders</a>
+</p>

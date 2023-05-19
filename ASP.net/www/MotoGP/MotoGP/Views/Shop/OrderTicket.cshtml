@@ -1,0 +1,61 @@
+﻿@model MotoGP.Models.Ticket
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+    var countries =  (IEnumerable<SelectListItem>)ViewData["Countries"];
+    var races = (IEnumerable<Race>)ViewData["Races"];
+}
+
+<style>
+    .centered {
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+</style>
+    <p>Please fill out following fields:</p>
+
+    <form asp-action="Create">
+    
+    <label asp-for="Name">
+        @Html.DisplayNameFor(model => model.Name)
+        </label>
+    <input asp-for="Name" />  
+    <br/>
+
+    <label asp-for="Email">
+        @Html.DisplayNameFor(model => model.Email)
+        </label>
+    <input asp-for="Email" /> 
+    <br/>
+
+     <label asp-for="Address">
+        @Html.DisplayNameFor(model => model.Address)
+        </label>
+    <input asp-for="Address" /> 
+    <br/>
+
+    <label asp-for="CountryID">
+        @Html.DisplayNameFor(model => model.Country)
+        </label>
+    <select asp-for="CountryID" asp-items="countries">@Html.DisplayNameFor(model => model.Country)</select>
+    <br/>
+    
+
+    <label asp-for="RaceID">Race</label>
+    @foreach (Race race in races)
+    {
+        <input asp-for="RaceID" type="radio" value="@race.RaceID"/>@race.Name <br/>
+    }
+
+    @for (int i = 1; i < 7; i++)
+    {
+        <input asp-for="Number" type="radio" value="@i" />@i
+    }
+    <br/>
+
+    <input type="submit" value="Order" />
+</form>
+
+    <a asp-controller="Home" asp-action="Index">Back</a>

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0690b41a-b48a-4501-adc8-f5c1b543aa52": {
+      "ProjectGuid": "0690b41a-b48a-4501-adc8-f5c1b543aa52",
+      "DisplayName": "MusicStore",
+      "ColorIndex": 0
+    },
+    "16175126-8df3-46ff-95a1-440839245924": {
+      "ProjectGuid": "16175126-8df3-46ff-95a1-440839245924",
+      "DisplayName": "MusicStore.UnitTests",
+      "ColorIndex": 1
+    },
+    "7d055b4f-750d-45f5-8c2e-8a1f8c3453f1": {
+      "ProjectGuid": "7d055b4f-750d-45f5-8c2e-8a1f8c3453f1",
+      "DisplayName": "MusicStoreTest",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\API",
+    "\\API\\Controllers",
+    "\\MyShop.API",
+    "\\MyShop.API\\Controllers",
+    "\\MyShop.Infrastructure",
+    "\\MyShop.Web"
+  ],
+  "SelectedNode": "\\MyShop.Infrastructure\\ShoppingContext.cs",
+  "PreviewInSolutionExplorer": false
+}

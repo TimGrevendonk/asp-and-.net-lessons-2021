@@ -1,0 +1,51 @@
+﻿@model IEnumerable<MusicStore.Models.CartItem>
+@{
+    ViewData["Title"] = "Shopping Cart";
+}
+<h1>Shopping Cart</h1>
+<h4>Retreive your items</h4>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Album)
+            </th>
+            <th>
+                Price (each)
+            </th>
+            <th>
+                Quantity
+            </th>
+            <th>
+                Total
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                <a asp-controller="Store" asp-action="Details" asp-route-id="@item.AlbumID">@Html.DisplayFor(modelItem => item.Album.Title)</a>
+            </td>
+            <td>
+                @item.Album.Price euro
+            </td>
+            <td>
+                @item.Count
+            </td>
+            <td>
+                @(item.Album.Price * item.Count) euro
+            </td>
+            <td>
+                <a asp-action="RemoveFromCart" asp-route-id="@item.Album.AlbumID">-</a> |
+                <a asp-action="AddToCart" asp-route-id="@item.Album.AlbumID">+</a> |
+                <a asp-action="DeleteFromCart" asp-route-id="@item.Album.AlbumID">Remove</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+<a asp-controller="Home" asp-action="Index">Back to home</a>

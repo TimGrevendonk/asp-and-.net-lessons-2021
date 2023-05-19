@@ -1,0 +1,42 @@
+﻿@model IEnumerable<MusicStore.Models.Artist>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+@for (var character = 'A'; character <= 'Z'; character++)
+{
+    // The value in the name of asp-route-... must correspond to the name of the method attribute.
+    <a asp-controller="Artists" asp-action="Index" asp-route-letter="@character" value="@character">@character</a> <text>|</text>
+} 
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.ArtistID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.ArtistID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.ArtistID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,64 @@
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Best\bin\Debug\net5.0\DI_Pattern_Best.exe
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Best\bin\Debug\net5.0\DI_Pattern_Best.deps.json
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Best\bin\Debug\net5.0\DI_Pattern_Best.runtimeconfig.json
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Best\bin\Debug\net5.0\DI_Pattern_Best.runtimeconfig.dev.json
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Best\bin\Debug\net5.0\DI_Pattern_Best.dll
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Best\bin\Debug\net5.0\ref\DI_Pattern_Best.dll
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Best\bin\Debug\net5.0\DI_Pattern_Best.pdb
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Best\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Best\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Best\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Best\obj\Debug\net5.0\DI_Pattern_Best.GeneratedMSBuildEditorConfig.editorconfig
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Best\obj\Debug\net5.0\DI_Pattern_Best.AssemblyInfoInputs.cache
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Best\obj\Debug\net5.0\DI_Pattern_Best.AssemblyInfo.cs
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Best\obj\Debug\net5.0\DI_Pattern_Best.csproj.CoreCompileInputs.cache
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Best\obj\Debug\net5.0\DI_Pattern_Best.csproj.CopyComplete
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Best\obj\Debug\net5.0\DI_Pattern_Best.dll
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Best\obj\Debug\net5.0\ref\DI_Pattern_Best.dll
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Best\obj\Debug\net5.0\DI_Pattern_Best.pdb
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Best\obj\Debug\net5.0\DI_Pattern_Best.genruntimeconfig.cache
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Best\bin\Debug\net5.0\EmailSender.cs
+C:\@Thomas More\2ITF .NET\.NET Development\DI_Pattern\DI_Pattern_Best\bin\Debug\net5.0\config\di_configuration.xml
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Best\bin\Debug\net5.0\config\di_configuration.xml
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Best\bin\Debug\net5.0\EmailSender.cs
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Best\bin\Debug\net5.0\DI_Pattern_Best.exe
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Best\bin\Debug\net5.0\DI_Pattern_Best.deps.json
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Best\bin\Debug\net5.0\DI_Pattern_Best.runtimeconfig.json
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Best\bin\Debug\net5.0\DI_Pattern_Best.runtimeconfig.dev.json
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Best\bin\Debug\net5.0\DI_Pattern_Best.dll
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Best\bin\Debug\net5.0\ref\DI_Pattern_Best.dll
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Best\bin\Debug\net5.0\DI_Pattern_Best.pdb
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Best\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Best\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Best\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Best\obj\Debug\net5.0\DI_Pattern_Best.GeneratedMSBuildEditorConfig.editorconfig
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Best\obj\Debug\net5.0\DI_Pattern_Best.AssemblyInfoInputs.cache
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Best\obj\Debug\net5.0\DI_Pattern_Best.AssemblyInfo.cs
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Best\obj\Debug\net5.0\DI_Pattern_Best.csproj.CoreCompileInputs.cache
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Best\obj\Debug\net5.0\DI_Pattern_Best.csproj.CopyComplete
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Best\obj\Debug\net5.0\DI_Pattern_Best.dll
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Best\obj\Debug\net5.0\ref\DI_Pattern_Best.dll
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Best\obj\Debug\net5.0\DI_Pattern_Best.pdb
+C:\TM\NETDevelopment\DI_Pattern Start Solution\DI_Pattern_Best\obj\Debug\net5.0\DI_Pattern_Best.genruntimeconfig.cache
+C:\Users\timgr\OneDrive\Desktop\stuff\school\asp.net\DOT.net\www\DI_Pattern Start Solution\DI_Pattern_Best\bin\Debug\net5.0\config\di_configuration.xml
+C:\Users\timgr\OneDrive\Desktop\stuff\school\asp.net\DOT.net\www\DI_Pattern Start Solution\DI_Pattern_Best\bin\Debug\net5.0\EmailSender.cs
+C:\Users\timgr\OneDrive\Desktop\stuff\school\asp.net\DOT.net\www\DI_Pattern Start Solution\DI_Pattern_Best\bin\Debug\net5.0\DI_Pattern_Best.exe
+C:\Users\timgr\OneDrive\Desktop\stuff\school\asp.net\DOT.net\www\DI_Pattern Start Solution\DI_Pattern_Best\bin\Debug\net5.0\DI_Pattern_Best.deps.json
+C:\Users\timgr\OneDrive\Desktop\stuff\school\asp.net\DOT.net\www\DI_Pattern Start Solution\DI_Pattern_Best\bin\Debug\net5.0\DI_Pattern_Best.runtimeconfig.json
+C:\Users\timgr\OneDrive\Desktop\stuff\school\asp.net\DOT.net\www\DI_Pattern Start Solution\DI_Pattern_Best\bin\Debug\net5.0\DI_Pattern_Best.runtimeconfig.dev.json
+C:\Users\timgr\OneDrive\Desktop\stuff\school\asp.net\DOT.net\www\DI_Pattern Start Solution\DI_Pattern_Best\bin\Debug\net5.0\DI_Pattern_Best.dll
+C:\Users\timgr\OneDrive\Desktop\stuff\school\asp.net\DOT.net\www\DI_Pattern Start Solution\DI_Pattern_Best\bin\Debug\net5.0\ref\DI_Pattern_Best.dll
+C:\Users\timgr\OneDrive\Desktop\stuff\school\asp.net\DOT.net\www\DI_Pattern Start Solution\DI_Pattern_Best\bin\Debug\net5.0\DI_Pattern_Best.pdb
+C:\Users\timgr\OneDrive\Desktop\stuff\school\asp.net\DOT.net\www\DI_Pattern Start Solution\DI_Pattern_Best\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\timgr\OneDrive\Desktop\stuff\school\asp.net\DOT.net\www\DI_Pattern Start Solution\DI_Pattern_Best\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\timgr\OneDrive\Desktop\stuff\school\asp.net\DOT.net\www\DI_Pattern Start Solution\DI_Pattern_Best\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\timgr\OneDrive\Desktop\stuff\school\asp.net\DOT.net\www\DI_Pattern Start Solution\DI_Pattern_Best\obj\Debug\net5.0\DI_Pattern_Best.csproj.AssemblyReference.cache
+C:\Users\timgr\OneDrive\Desktop\stuff\school\asp.net\DOT.net\www\DI_Pattern Start Solution\DI_Pattern_Best\obj\Debug\net5.0\DI_Pattern_Best.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timgr\OneDrive\Desktop\stuff\school\asp.net\DOT.net\www\DI_Pattern Start Solution\DI_Pattern_Best\obj\Debug\net5.0\DI_Pattern_Best.AssemblyInfoInputs.cache
+C:\Users\timgr\OneDrive\Desktop\stuff\school\asp.net\DOT.net\www\DI_Pattern Start Solution\DI_Pattern_Best\obj\Debug\net5.0\DI_Pattern_Best.AssemblyInfo.cs
+C:\Users\timgr\OneDrive\Desktop\stuff\school\asp.net\DOT.net\www\DI_Pattern Start Solution\DI_Pattern_Best\obj\Debug\net5.0\DI_Pattern_Best.csproj.CoreCompileInputs.cache
+C:\Users\timgr\OneDrive\Desktop\stuff\school\asp.net\DOT.net\www\DI_Pattern Start Solution\DI_Pattern_Best\obj\Debug\net5.0\DI_Pattern_Best.csproj.CopyComplete
+C:\Users\timgr\OneDrive\Desktop\stuff\school\asp.net\DOT.net\www\DI_Pattern Start Solution\DI_Pattern_Best\obj\Debug\net5.0\DI_Pattern_Best.dll
+C:\Users\timgr\OneDrive\Desktop\stuff\school\asp.net\DOT.net\www\DI_Pattern Start Solution\DI_Pattern_Best\obj\Debug\net5.0\ref\DI_Pattern_Best.dll
+C:\Users\timgr\OneDrive\Desktop\stuff\school\asp.net\DOT.net\www\DI_Pattern Start Solution\DI_Pattern_Best\obj\Debug\net5.0\DI_Pattern_Best.pdb
+C:\Users\timgr\OneDrive\Desktop\stuff\school\asp.net\DOT.net\www\DI_Pattern Start Solution\DI_Pattern_Best\obj\Debug\net5.0\DI_Pattern_Best.genruntimeconfig.cache

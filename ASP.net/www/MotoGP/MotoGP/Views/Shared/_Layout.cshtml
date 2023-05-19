@@ -1,0 +1,24 @@
+﻿@{
+    var banners = new List<String>
+    {"bannerRaces.jpg", "bannerRiders.jpg", "bannerTeams.jpg", "bannerTickets.jpg"};
+    int number = (int)ViewData["bannernr"];
+    var banner = "/images/banners/" + banners[number];
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewData["Title"] - MotoGp</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <div>
+        <a asp-controller="Home" asp-action="Menu"><img src="@banner" alt="races" width=100% /></a>
+        <h1>@ViewData["Title"]</h1>
+        @RenderBody()
+    </div>
+</body>
+</html>
+

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "00f3a215-690d-42f3-88e7-ed509a7e7eac": {
+      "ProjectGuid": "00f3a215-690d-42f3-88e7-ed509a7e7eac",
+      "DisplayName": "MyShop.Tests",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

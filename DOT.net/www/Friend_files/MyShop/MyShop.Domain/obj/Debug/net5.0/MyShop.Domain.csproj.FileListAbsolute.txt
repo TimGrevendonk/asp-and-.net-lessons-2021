@@ -1,0 +1,12 @@
+C:\School\2ITF\sem2\NET development\www\MyShop\MyShop.Domain\bin\Debug\net5.0\MyShop.Domain.deps.json
+C:\School\2ITF\sem2\NET development\www\MyShop\MyShop.Domain\bin\Debug\net5.0\MyShop.Domain.dll
+C:\School\2ITF\sem2\NET development\www\MyShop\MyShop.Domain\bin\Debug\net5.0\ref\MyShop.Domain.dll
+C:\School\2ITF\sem2\NET development\www\MyShop\MyShop.Domain\bin\Debug\net5.0\MyShop.Domain.pdb
+C:\School\2ITF\sem2\NET development\www\MyShop\MyShop.Domain\obj\Debug\net5.0\MyShop.Domain.csproj.AssemblyReference.cache
+C:\School\2ITF\sem2\NET development\www\MyShop\MyShop.Domain\obj\Debug\net5.0\MyShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\2ITF\sem2\NET development\www\MyShop\MyShop.Domain\obj\Debug\net5.0\MyShop.Domain.AssemblyInfoInputs.cache
+C:\School\2ITF\sem2\NET development\www\MyShop\MyShop.Domain\obj\Debug\net5.0\MyShop.Domain.AssemblyInfo.cs
+C:\School\2ITF\sem2\NET development\www\MyShop\MyShop.Domain\obj\Debug\net5.0\MyShop.Domain.csproj.CoreCompileInputs.cache
+C:\School\2ITF\sem2\NET development\www\MyShop\MyShop.Domain\obj\Debug\net5.0\MyShop.Domain.dll
+C:\School\2ITF\sem2\NET development\www\MyShop\MyShop.Domain\obj\Debug\net5.0\ref\MyShop.Domain.dll
+C:\School\2ITF\sem2\NET development\www\MyShop\MyShop.Domain\obj\Debug\net5.0\MyShop.Domain.pdb

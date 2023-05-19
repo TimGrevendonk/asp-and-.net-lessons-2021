@@ -1,0 +1,12 @@
+C:\Users\timgr\OneDrive\Desktop\stuff\school\asp.net\DOT.net\www\StringCalculatorkata\StringCalculatorkata\bin\Debug\net5.0\StringCalculatorkata.deps.json
+C:\Users\timgr\OneDrive\Desktop\stuff\school\asp.net\DOT.net\www\StringCalculatorkata\StringCalculatorkata\bin\Debug\net5.0\StringCalculatorkata.dll
+C:\Users\timgr\OneDrive\Desktop\stuff\school\asp.net\DOT.net\www\StringCalculatorkata\StringCalculatorkata\bin\Debug\net5.0\ref\StringCalculatorkata.dll
+C:\Users\timgr\OneDrive\Desktop\stuff\school\asp.net\DOT.net\www\StringCalculatorkata\StringCalculatorkata\bin\Debug\net5.0\StringCalculatorkata.pdb
+C:\Users\timgr\OneDrive\Desktop\stuff\school\asp.net\DOT.net\www\StringCalculatorkata\StringCalculatorkata\obj\Debug\net5.0\StringCalculatorkata.csproj.AssemblyReference.cache
+C:\Users\timgr\OneDrive\Desktop\stuff\school\asp.net\DOT.net\www\StringCalculatorkata\StringCalculatorkata\obj\Debug\net5.0\StringCalculatorkata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timgr\OneDrive\Desktop\stuff\school\asp.net\DOT.net\www\StringCalculatorkata\StringCalculatorkata\obj\Debug\net5.0\StringCalculatorkata.AssemblyInfoInputs.cache
+C:\Users\timgr\OneDrive\Desktop\stuff\school\asp.net\DOT.net\www\StringCalculatorkata\StringCalculatorkata\obj\Debug\net5.0\StringCalculatorkata.AssemblyInfo.cs
+C:\Users\timgr\OneDrive\Desktop\stuff\school\asp.net\DOT.net\www\StringCalculatorkata\StringCalculatorkata\obj\Debug\net5.0\StringCalculatorkata.csproj.CoreCompileInputs.cache
+C:\Users\timgr\OneDrive\Desktop\stuff\school\asp.net\DOT.net\www\StringCalculatorkata\StringCalculatorkata\obj\Debug\net5.0\StringCalculatorkata.dll
+C:\Users\timgr\OneDrive\Desktop\stuff\school\asp.net\DOT.net\www\StringCalculatorkata\StringCalculatorkata\obj\Debug\net5.0\ref\StringCalculatorkata.dll
+C:\Users\timgr\OneDrive\Desktop\stuff\school\asp.net\DOT.net\www\StringCalculatorkata\StringCalculatorkata\obj\Debug\net5.0\StringCalculatorkata.pdb

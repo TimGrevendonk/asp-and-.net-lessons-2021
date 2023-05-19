@@ -1,0 +1,48 @@
+﻿@model IEnumerable<MotoGP.Models.Race>
+@using System.Globalization;
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var time = DateTime.Now.ToString("dd/MM/yyyy");
+}
+
+<style>
+    .centered {
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+</style>
+
+@{var month = "";}
+
+@foreach (var item in Model)
+{
+
+    @if (month != item.Date.ToString("MMMM"))
+    {
+        <h2>
+            <b>
+                @item.Date.ToString("MMMM", new CultureInfo("en-US")))
+                @{
+                    month = item.Date.ToString("MMMM");
+                }
+            </b>
+        </h2>
+    }
+    <p>
+        @(Html.DisplayFor(modelItem => item.Date))
+    <a asp-controller="Info" asp-action="Showrace" asp-route-id="@item.RaceID">
+        @(Html.DisplayFor(modelItem => item.Name))
+    </a> 
+    </p>
+}
+
+
+
+
+
+    <a asp-controller="Home" asp-action="Index">Back</a> |
+    <a asp-controller="Info" asp-action="BuildMap">Race on map</a> | 
+    <a asp-controller="Info" asp-action="SelectRace">One by one</a>
+

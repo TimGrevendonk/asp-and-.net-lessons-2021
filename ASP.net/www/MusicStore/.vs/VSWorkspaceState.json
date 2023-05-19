@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MusicStore",
+    "\\MusicStore\\Areas",
+    "\\MusicStore\\Areas\\Admin",
+    "\\MusicStore\\Areas\\Admin\\Controllers",
+    "\\MusicStore\\Controllers",
+    "\\MusicStore\\Models",
+    "\\MusicStore\\Views",
+    "\\MusicStore\\Views\\ShoppingCart"
+  ],
+  "SelectedNode": "\\MusicStore\\Views\\ShoppingCart\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}

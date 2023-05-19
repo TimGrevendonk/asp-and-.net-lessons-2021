@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9f33e44e-17c4-416b-9698-6b528835eaa7": {
+      "ProjectGuid": "9f33e44e-17c4-416b-9698-6b528835eaa7",
+      "DisplayName": "MyShop.Web",
+      "ColorIndex": 0
+    },
+    "30ff0f42-f810-4aab-a2dd-9a745c2b1a5a": {
+      "ProjectGuid": "30ff0f42-f810-4aab-a2dd-9a745c2b1a5a",
+      "DisplayName": "MyShop.Domain",
+      "ColorIndex": 1
+    },
+    "2d545cd3-3ee1-4fc8-8c28-8c38e8162736": {
+      "ProjectGuid": "2d545cd3-3ee1-4fc8-8c28-8c38e8162736",
+      "DisplayName": "MyShop.Infrastructure",
+      "ColorIndex": 2
+    },
+    "12bc3322-9a44-4b67-9c44-050c4e3e83f4": {
+      "ProjectGuid": "12bc3322-9a44-4b67-9c44-050c4e3e83f4",
+      "DisplayName": "MyShop.Tests",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

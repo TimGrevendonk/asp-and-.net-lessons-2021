@@ -1,0 +1,54 @@
+﻿@model IEnumerable<MotoGP.Models.Rider>
+@{
+    ViewData["Title"] = "Riders";
+    
+}
+
+<style>
+  .cards {
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+  }
+  .column {
+    align-content: center;
+    float: left;
+    width: 30%;
+    padding: 1rem;
+  }
+  .card {
+      background: lightgrey;
+      width: 60%;
+      margin: auto;
+      padding: 1rem;
+      text-align: center;
+  }
+</style>
+
+<!-- Back button that goes to previous page.-->
+<a href="javascript:history.back()"><b>Back</b></a>
+
+<section class="cards">
+@foreach (var item in Model)
+{
+    // Get the value "number" from Model that has table content Riders in it.
+    var rider = "/images/riders/" + item.Number + ".jpg";
+    // Get the value "CountryID" from Model that has table content Riders in it.
+    var flag = "/images/flags/" + item.CountryID + ".png";
+    <div class="column">
+        <article class="card">
+            <img src="@rider" alt="rider"/>
+                <h2 class="number">
+                    <img src="@flag" alt="flag" class="flag"/>
+                    @item.Number
+                </h2>
+            <p>    
+                @item.FirstName @item.LastName
+            </p>     
+        </article>
+    </div>
+}
+    </section>
+    <p><a href="javascript:history.back()">Back</a></p>
+
+
